@@ -1,3 +1,49 @@
+# Commands to Run
+
+```
+.venv/Scripts/activate
+```
+
+```
+streamlit run main.py
+```
+# Resources
+
+```
+https://www.news18.com/india/parliament-winter-session-government-vs-opposition-lok-sabha-special-debates-constitution-adoption-day-rajnath-singh-amit-shah-pm-modi-rajya-sabha-9154481.html
+```
+```
+Here are 5 simple questions and answers based on the article:
+1.	What is the occasion for the special debate in the Lok Sabha?
+The special debate in the Lok Sabha is being held to mark the 75th anniversary of the adoption of the Constitution.
+2.	Who initiated the Constitution debate in the Lok Sabha?
+Defence Minister Rajnath Singh initiated the Constitution debate in the Lok Sabha.
+3.	What did Rajnath Singh accuse the Congress party of doing?
+Rajnath Singh accused the Congress party of disrespecting and trying to hijack the process of making the Constitution.
+4.	Who made her maiden speech in the Lok Sabha during the Constitution debate?
+Priyanka Gandhi Vadra made her maiden speech in the Lok Sabha during the Constitution debate.
+5.	When is Prime Minister Narendra Modi expected to reply to the debate?
+Prime Minister Narendra Modi is expected to reply to the debate on Saturday (December 14).
+
+```
+
+```
+https://www.livelaw.in/top-stories/impeachment-motion-moved-in-rajya-sabha-against-justice-shekhar-kumar-yadav-over-vhp-event-speech-278238
+```
+```
+Here are 5 simple question and answer based on the content:
+Q1: Who is the judge against whom the impeachment motion has been moved?
+A1: Justice Shekhar Kumar Yadav
+Q2: Why has the impeachment motion been moved against Justice Yadav?
+A2: For delivering an "inflammatory, prejudiced" speech targeting minority communities at a VHP event.
+Q3: How many Rajya Sabha MPs have signed the impeachment motion?
+A3: 55
+Q4: What is the allegation against Justice Yadav's speech?
+A4: It violated the oath of office as a judge and violated the secular ethos of the Constitution.
+Q5: Under which articles of the Constitution can a judge be removed from office?
+A5: Articles 124(4) and 124(5) read with Article 217(1)(B) and Article 218.
+
+```
 # Project-code
 
 ```
